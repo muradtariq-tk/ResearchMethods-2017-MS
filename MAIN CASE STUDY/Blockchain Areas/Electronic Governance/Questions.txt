@@ -1,3 +1,0 @@
-Point out exact problems in these papers (Atleast five)?
-Is there any solution to the problem?
-provide reference of each term used inside your documentation
